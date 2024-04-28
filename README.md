@@ -1,11 +1,15 @@
-# WaterKylin
+# WaterKylin 1.0 水麒麟
 
 ![1714286033635](https://github.com/constantinexu/WaterKylin/assets/44708925/f49b6215-877b-4dfd-b988-dba81d876fbf)
 
 ## Conception
-WaterKylin is an open-source Python library designed to provide a comprehensive suite of tools for the analysis of complex networks, with a particular focus on the unique characteristics and roles of peripheral nodes within these networks. In the realm of network science, complex networks are graphs that encapsulate the pairwise interactions within a set of entities—be it social connections, biological interactions, or infrastructure linkages.
+WaterKylin is an open-source Python library designed to provide a new suite of tools for the analysis of complex networks, with a particular focus on the unique characteristics and roles of peripheral nodes within these networks. WaterKylin is the first dedicated complex network analysis tool used for "periphery analysis". In the realm of network science, complex networks are graphs that encapsulate the pairwise interactions within a set of entities—be it social connections, biological interactions, or infrastructure linkages.
 
 At the heart of WaterKylin is the recognition that while much attention has been given to the central or "core" components of networks, the "periphery" plays an equally critical role in determining the network's resilience, adaptability, and overall functionality. Peripheral nodes, although sometimes less connected, serve as the interface with the external environment and are crucial for maintaining the network's response to changes and disturbances.
+
+WaterKylin 是一个开源的 Python 库，旨在提供一套新的复杂网络分析工具，特别关注这些网络中边缘节点的独特特性和作用。WaterKylin是首个用于“边缘分析”的专用复杂网络分析工具。在网络科学领域，复杂网络是包含一组实体之间成对交互的图——无论是社交联系、生物相互作用还是基础设施连接。
+
+WaterKylin 的核心理念是认识到，尽管对网络的中心或核心部分给予了大量关注，但“边缘”在决定网络的弹性、适应性和整体功能方面同样扮演着关键角色。边缘节点虽然有时连接较少，但作为与外部环境的接口，对于维持网络对变化和干扰的响应至关重要。
 
 
 ## Core Features
