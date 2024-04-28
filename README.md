@@ -41,6 +41,11 @@ In bioinformatics, it can be applied to study gene regulatory networks, protein 
 The project is designed and developed by Shipeng Xu, major in ecology and complex networks.
 Email: 924225024@qq.com
 
+If you wish to have a deeper understanding of the "periphery analysis" algorithm and its combination with ecology, please read my paper for more information.
+https://arxiv.org/abs/2404.04660 or
+https://doi.org/10.48550/arXiv.2404.04660
+
+
 ## Usage
 
 First, clone the WaterKylin repository from GitHub:
